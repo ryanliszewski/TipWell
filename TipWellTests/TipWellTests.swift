@@ -9,7 +9,7 @@
 import XCTest
 @testable import iTipDemo
 
-class iTipDemoTests: XCTestCase {
+class TipWellTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
